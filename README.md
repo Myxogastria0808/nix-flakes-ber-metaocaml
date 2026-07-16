@@ -1,4 +1,4 @@
-# BER MEtaOCaml NIix Flakes Environment
+# BER MetaOCaml Nix Flakes Environment
 
 ## Setup
 
